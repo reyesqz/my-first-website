@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reyes | My First Website</title>
+</head>
+
+<body>
+    <h1>Hi, I'm Reyes 👋</h1>
+
+    <h2>Welcome to my first website!</h2>
+
+    <p>
+        I'm learning how to code and build websites.
+    </p>
+
+    <h3>My Goals 🎯</h3>
+    <ul>
+        <li>Learn coding</li>
+        <li>Build websites</li>
+        <li>Learn more about technology</li>
+    </ul>
+
+    <h3>My Interests ⚽</h3>
+    <p>Football, technology, and learning new things.</p>
+
+</body>
+</html>
